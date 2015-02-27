@@ -1,0 +1,11 @@
+{
+    "name": "webgriffe/stripe",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Webgriffe SRL",
+            "email": "support@webgriffe.com"
+        }
+    ],
+    "require": {}
+}
