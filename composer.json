@@ -7,5 +7,7 @@
             "email": "support@webgriffe.com"
         }
     ],
-    "require": {}
+    "require": {
+        "stripe/stripe-php": "2.*"
+    }
 }
